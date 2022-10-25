@@ -1,5 +1,5 @@
 # qwik-node-podman
-Demo of js framework Qwik with Nod.js api containerized with Podman.
+Demo of js framework [Qwik](https://qwik.builder.io/) with [Node.js](https://nodejs.org/) api containerized with [Podman](https://podman.io/).
 
 ### Get Started
 
