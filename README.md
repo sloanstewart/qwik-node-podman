@@ -11,6 +11,9 @@ Demo of js framework [Qwik](https://qwik.builder.io/) with [Node.js](https://nod
 #### Clone Repository
 `git clone git@github.com:sloanstewart/qwik-node-podman.git`
 
+## Get in that dir
+`cd qwik-node-podman`
+
 #### Install Dependencies
 `npm --prefix ./client install && npm --prefix ./server install`
 
