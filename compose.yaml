@@ -1,0 +1,12 @@
+services:
+  server:
+    build: ./server
+    ports:
+      - 8080:8080
+  
+  client:
+    build: ./client
+    depends_on:
+      - server
+    ports:
+      - 3000:3000
